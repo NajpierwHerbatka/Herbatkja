@@ -1,0 +1,64 @@
+td {
+	border: 1px solid lightgrey;
+}
+
+td div {
+	display: inline-block;
+	height: 20px;
+	width: 20px;
+	border-radius: 50%;
+}
+
+
+.red {
+	background-color: #FF0000;
+}
+
+.orange {
+	background-color: #FFBF00;
+}
+
+.yellow {
+	background-color: #FFFF00;
+}
+
+.greenyellow {
+	background-color: #BFFF00;
+}
+
+.green {
+	background-color: #00FF00;
+}
+
+.greencyan {
+	background-color: #00FFBF;
+}
+
+.cyan {
+	background-color: #00FFFF;
+}
+
+.bluecyan {
+	background-color: #00BFFF;
+}
+
+.blue {
+	background-color: #0000FF;
+}
+
+.bluemagenta {
+	background-color: #BF00FF;
+}
+
+.magenta {
+	background-color: #FF00FF;
+}
+
+.redmagenta {
+	background-color: #FF00BF;
+}
+
+img {
+	width: 50px;
+	height: 50px;
+}
